@@ -8,7 +8,7 @@ This effort consists of :
 * the building of a Proof of Concept in which we try to deploy a first version of an own Edubadges instance that is independent from the Surf instance and it's connected services.
   This POC consists of a front-end, back-end (api) and validator server for which you can find the code repositories here: [https://github.com/edubadges-be](https://github.com/edubadges-be)
   
-* A campaign that promotes an effort to start experimenting with Microcredentials & Edubadges in Flandres. 
+* A campaign that promotes to start experimenting with Microcredentials & Edubadges in Flandres. 
 This campaign is being worked out by a team of students at [osoc21](https://osoc.be/editions/2021): Lies Heylen & Marie De Lange supported by coaches Emma Stoks & Bert Jehoul.
 All documentation & related research will be made available via this osoc21 repository.
 
