@@ -1,45 +1,44 @@
-# Header
+# Edubadges Belgium
 
-## Header
-### Header
-#### Header
-##### Header
-###### Header
+### The Project
 
-*Italic*
-**Bold**
-***Italicbold***
+![combination Logo OSOC and Edubadges](Foto_belnet.png)
+![Edubadges crest](Tekengebied_1.png)
 
-Regular text!
-
-1. List
-    - With
-2. Number
-
-- nON
- - numbered
-- list
-
-[Click here to go to google](https://www.google.be)
-
-[Click here to go to your about page (which will ofcourse only work if you create about.md)](about)
+[At Open Code of Summer](https://osoc.be/) two students created a communications strategy for the proof of a concept of Edubadges Belgium. Edubadges Belgium is an effort to bring the [Edubadges platform](https://www.surf.nl/en/edubadges-issuing-digital-certificates-to-students) (developed by Surf in The Netherlands) to Belgium as a microcredentialing solution for (higher) education & beyond.
 
 
-You have to leave
-a full empty line
+To find out more about Edubadges, press the [link]() to watch the promotional video. 
 
-if you want to not have a newline
+[Extra information](README) about the Edubadges Belgium POC. 
 
+### The Team
 
-> This is
-> a quote
+[Marie De Lange](https://www.linkedin.com/in/marie-de-lange-ab9a8217a/) 
+> Communications
 
+[Lies Heylen](https://www.linkedin.com/in/lies-heylen/)
+> Design and Video Editing
 
-## Add images
+[Bert Jehoul](https://www.linkedin.com/in/bertjehoul/) 
+>Coach
 
-Go to your page (https://github.com/osoc21/edubadges-be) and press Add File > Upload Files
+[Emma Stoks](https://github.com/emmastoks)
+>Coach
 
+### Partners
 
+[Arteveldehogeschool](https://www.arteveldehogeschool.be/)
 
-Select the images, and then you can link them like so:
-![This is the text that will show if the image fails to load, and for people with text to speech](imageName.png)
+[Karel de Grote Hogeschool](https://www.kdg.be/)
+
+[HoGent](https://www.hogent.be/)
+
+[Thomas More](https://www.thomasmore.be/)
+
+[Belnet](https://belnet.be/nl)
+
+[KodeKlub](https://kodeklub.nl/)
+
+[Open Knowledge Belgium](https://openknowledge.be/)
+
