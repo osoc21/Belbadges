@@ -2,7 +2,7 @@
 
 .button {
 	text-decoration: none;
-	background-color: #f14a3b;
+	background-color: #53316C;
 	color: white;
 	font-family: "Montserrat", sans-serif;
 	padding: 0.7rem 0.95rem;
@@ -15,14 +15,14 @@
 }
 
 	.button:hover {
-		background-color: #FF5046;
+		background-color: #CFB9D6;
 	}
 
 .button--alt {
 	background-color: white;
-	border: 1px solid #f14a3b;
+	border: 1px solid #53316C;
 	font-family: "Montserrat", sans-serif;
-	color: #f14a3b;
+	color: #53316C;
 }
 
 	.button--alt:hover {
